@@ -1,4 +1,4 @@
-# Activity-1-Implementing-Searching-Algorithms
+# searching_lab.cpp.
 
 #include <iostream>
 using namespace std;
